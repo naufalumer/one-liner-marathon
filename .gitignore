@@ -8,3 +8,5 @@ check-stderr.txt
 muse-usage.jsonl
 check-result2.json
 check-stderr2.txt
+check-result3.json
+check-stderr3.txt
