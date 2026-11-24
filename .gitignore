@@ -1,0 +1,8 @@
+kit/
+kit.tar.gz
+out1/
+out2/
+transcripts.tar.gz
+check-result.json
+check-stderr.txt
+muse-usage.jsonl
